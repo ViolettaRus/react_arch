@@ -1,0 +1,2 @@
+export { rickAndMortyApi } from './rickAndMortyApi'
+

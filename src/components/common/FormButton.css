@@ -1,0 +1,30 @@
+.form-button {
+  width: 100%;
+  padding: 10px 20px;
+  background-color: #228be6;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  font-size: 14px;
+  font-weight: 500;
+  cursor: pointer;
+  transition: background-color 0.15s ease-in-out;
+  font-family: inherit;
+  line-height: 1.55;
+  margin-top: 8px;
+  height: 42px;
+}
+
+.form-button:hover {
+  background-color: #1c7ed6;
+}
+
+.form-button:active {
+  background-color: #1971c2;
+}
+
+.form-button:focus {
+  outline: none;
+  box-shadow: 0 0 0 2px rgba(34, 139, 230, 0.2);
+}
+

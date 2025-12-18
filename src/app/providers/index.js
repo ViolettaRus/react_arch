@@ -1,0 +1,2 @@
+export { MantineProvider } from './MantineProvider'
+
